@@ -1,0 +1,19 @@
+.body_background{
+    background-image: url("christmas-background-round-frame-from-1481383.jpg");
+background-position:center;
+background-size: cover;
+}
+h1{
+    color: darkgreen;
+    font-size: 40px
+}
+#My_canvas{
+    border-width: 10px;
+    background-color:lightcyan;
+    border-style: groove;
+    border-color:lightcyan;
+    
+}
+span{
+font-size: 20px;
+}
